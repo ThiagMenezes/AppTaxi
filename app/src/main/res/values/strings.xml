@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppTaxi</string>
+    <string name="destination_adress">Endereço de Destino</string>
+    <string name="travel_cost">Estimar Viagem</string>
+    <string name="destination_origin">Endereço de Origem</string>
+    <string name="driver_name">Nome do motorista</string>
+    <string name="car_model">Veículo</string>
+    <string name="date">Data</string>
+    <string name="value">Valor</string>
+    <string name="driver_rating">Avaliação</string>
+    <string name="driver_selection">Escolher</string>
+</resources>
